@@ -15,3 +15,31 @@ WHEN I click the save button for that time block<br />
 THEN the text for that event is saved in local storage<br />
 WHEN I refresh the page<br />
 THEN the saved events persist<br />
+
+## Files & Directories
+
+-work-day-scheduler <br />
+  -assets <br />
+    -css <br />
+      -style.css <br />
+    -js <br />
+      -script.js<br />
+    -screenshots <br />
+      -work-day-scheduler.jpg <br />
+    -.gitignore <br />
+    -index.html <br />
+    -README.md <br />
+
+## Project Notes
+
+## Screenshots
+
+<img src="./assets/screenshots/work-day-scheduler.jpg">
+
+## Link
+
+[link](https://valiantthor92.github.io/work-day-scheduler/index.html)
+
+## Credits
+
+-Travis Nelson (student)
