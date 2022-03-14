@@ -36,7 +36,7 @@ A simple work-day scheduler created with javascript, it utilizes third party API
 
 ## Screenshots
 
-<img src="./assets/screenshots/work-day-scheduler.jpg">
+<img src="./assets/screenshots/work-day-scheduler.JPG">
 
 ## Link
 
