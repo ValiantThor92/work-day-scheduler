@@ -32,6 +32,8 @@ THEN the saved events persist<br />
 
 ## Project Notes
 
+A simple work-day scheduler created with javascript, it utilizes third party APIs to assist the user in time management.
+
 ## Screenshots
 
 <img src="./assets/screenshots/work-day-scheduler.jpg">
